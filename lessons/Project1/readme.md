@@ -28,11 +28,11 @@ We declare that we're using HTML5, set our title, and link our stylesheet.  In t
 
 `<h1>`, `<h2>`, `<h3>`, ..., and `<h6>` are all called *headings*.  These provide a larger, bold-faced font with which to separate pieces of the web page.  They're similar to the section headers in this article.
 
-`<p>` is called a *paragraph*.  These provide a way to group like contents into one "line" on the web page.  Closing a paragraph element causes the following element to be placed onto a new line when it is drawn by the browser.  Note, one of the <p> elements has extra text inside the tag itself.
+`<p>` is called a *paragraph*.  These provide a way to group like contents into one "line" on the web page.  Closing a paragraph element causes the following element to be placed onto a new line when it is drawn by the browser.  Note, one of the `<p>` elements has extra text inside the tag itself.
 
 ### Attributes
 
-In the case of the above, `<p id="placeholder"></p>`, we can see that the <p> element has an `id` attribute.  They are used to provide more information about an HTML element, and must always be in the opening tag.  They are provided in name/value pairs, such as `id="placeholder"`, where "id" is the attribute name, and "placeholder" is the attribute value.
+In the case of the above, `<p id="placeholder"></p>`, we can see that the `<p>` element has an `id` attribute.  They are used to provide more information about an HTML element, and must always be in the opening tag.  They are provided in name/value pairs, such as `id="placeholder"`, where "id" is the attribute name, and "placeholder" is the attribute value.
 
 The HTML or text that can be found inside an element is called the `innerHTML`.  This will be useful to us in JS, when we need to edit the HTML of a given element.
 
@@ -48,7 +48,7 @@ We will continue to explore new attributes as we progress.
 
 As you'll soon find out, CSS is able to control most of how a page can be displayed.  This can be further augmented by Javascript, but let's not get ahead of ourselves.
 
-For now, we'll start by applying a style to the background of our HTML document.  Then, we'll specify the color of the text to appear in the <p> elements.  Note, colors can be in RBG (Red, Green, Blue) coordinate pairs, or in HEX (hexadecimal, which looks like: #123456).  You can use an [online color picker](https://htmlcolorcodes.com/color-picker/) to identify colors for your pages.
+For now, we'll start by applying a style to the background of our HTML document.  Then, we'll specify the color of the text to appear in the `<p>` elements.  Note, colors can be in RBG (Red, Green, Blue) coordinate pairs, or in HEX (hexadecimal, which looks like: #123456).  You can use an [online color picker](https://htmlcolorcodes.com/color-picker/) to identify colors for your pages.
 
 ```
 body{
@@ -125,6 +125,6 @@ In this exercise, you must do the follow:
 
 4. *Edit the text in the page to make it your own.*  Building websites from tutorials isn't an fun, I get it.  In order to provide yourself with a better learning process, feel free to change text being used for examples into something that suits your interests.  The key to learning a new language, is to make it do something interesting for yourself.
 
-5. *Add a few more elements to the page that are dynamically added by JS.*  By this I mean, add a new element to the HTML (another <p> element will do), add a style declaration in the CSS for it, and assign it a value in your JS.
+5. *Add a few more elements to the page that are dynamically added by JS.*  By this I mean, add a new element to the HTML (another `<p>` element will do), add a style declaration in the CSS for it, and assign it a value in your JS.
 
 The next lesson will arrive soon!
