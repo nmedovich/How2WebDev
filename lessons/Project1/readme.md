@@ -4,7 +4,7 @@
 
 In the last exercise, we saw the basic structure of an HTML document.  You can use and re-use this template throughout each exercise, making the necessary changes as you go.
 
-In this section, we're going to look at how pages are laid out with HTML and CSS.  At the end, we'll use Javascript to "dynamically" change the positioning of some HTML elements as well.
+In this section, we're going to look at how pages are laid out with HTML and CSS.  At the end, we'll use Javascript to "dynamically" add content to some HTML elements as well.
 
 Consider the following:
 ```
