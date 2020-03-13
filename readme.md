@@ -25,4 +25,4 @@ Remeber to create a new folder inside the web root to hold each project.  This w
 
 ### Lessons
 
-Will be found above in the code for now.  When starting each lesson, please refer to the 
+* [Project0](lessons/Project0)
