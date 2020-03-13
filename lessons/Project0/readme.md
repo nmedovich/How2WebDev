@@ -86,9 +86,9 @@ A common web structure is as follows:
 
 2. *Create two folders in your web root to hold your JS and CSS files*.
 
-3. *Create a CSS file in its respective folder.*  Its name doesn't matter as long as you change its name in the <link> element.  Remember, CSS file files must end with `.css`.
+3. *Create a CSS file in its respective folder.*  Its name doesn't matter as long as you change its name in the <link> element.  Remember, CSS file files must end with `.css`.  *Into it, insert the CSS code block above.*
 
-4. *Create a JS file in its respective folder.*  Its name also doesn't matter as long as it's edited properly.  JS files must end with `.js`.
+4. *Create a JS file in its respective folder.*  Its name also doesn't matter as long as it's edited properly.  JS files must end with `.js`.  *Into it, insert the JS code block above.*  (One-liner, says "alert").
 
 5. *Insert the proper linking code for the CSS into the <head> element.*  Don't forget to edit the name of the CSS sheet as necessary.  **HINT**: The path to a file in the "css" folder would be `css/someSheet.css`.
 
@@ -97,6 +97,8 @@ A common web structure is as follows:
 7. *Navigate to the project in your browser via: http://localhost/Project0*.    
 ⋅* If everything loads properly, you've completed the lesson!
 ⋅* If you have difficulty, review the code above.  It will provide a working reference
+
+8. *Review the code provided in the repo above.  I will leave comments throughout it to show what is happening throughout the code.*
 
 The next lesson will arrive soon!
 

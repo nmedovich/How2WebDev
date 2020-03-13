@@ -1,3 +1,9 @@
+/*
+ * This block of CSS will apply to all elements in the <body> group.  However,
+ *   in the event an element inside sets it own value, it will override this.
+ * Here, we set the background of the web page to black, and the font color to white.
+ * Who'da thunk you'd find a comment here, too?  And in the same style as JS.
+ */
 body{
 	background-color: black;
 	color: white;
