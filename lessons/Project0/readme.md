@@ -100,6 +100,4 @@ A common web structure is as follows:
 
 8. *Review the code provided in the repo above.  I will leave comments throughout it to show what is happening throughout the code.*
 
-The next lesson will arrive soon!
-
-
+You can then proceed to the [next lesson!](../Project1)
