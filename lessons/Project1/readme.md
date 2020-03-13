@@ -127,4 +127,6 @@ In this exercise, you must do the follow:
 
 5. *Add a few more elements to the page that are dynamically added by JS.*  By this I mean, add a new element to the HTML (another `<p>` element will do), add a style declaration in the CSS for it, and assign it a value in your JS.
 
+6. *As always, review the files provided as solutions for the project.  There will be documentation of the code that explains what's going on, and you'll often receive explanations of things I don't explain here.*
+
 The next lesson will arrive soon!
