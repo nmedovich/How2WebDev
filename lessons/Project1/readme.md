@@ -62,7 +62,7 @@ p{
 
 This will provide a dark blue background, and a very light green text for the <p> elements.
 
-If you place this into the CSS file (remember to save your work, otherwise nothing new will appear on the page), and load the page in a browser, you'll see exactly that.  However, you'll probably notice that the <h1> element is still the default black text.  Fixing this will be part of your assignment.
+If you place this into the CSS file (remember to save your work, otherwise nothing new will appear on the page), and load the page in a browser, you'll see exactly that.  However, you'll probably notice that the `<h1>` element is still the default black text.  Fixing this will be part of your assignment.
 
 As discussed above, we can use the "attributes" of an element to define its behavior, and to stylize the individual element.  We do this using "selectors".  There are two common selectors that you'll use to access individual elements, rather than their tag themselves.  One of these is the "id", and the other is the "class" of the element.  CSS "id"s are unique identifiers for individual HTML elements.  CSS "classes" are individual styles that are applied to one or more HTML elements for the sake of changing the "state" of an object.  We'll discuss classes in more detail later.  
 
